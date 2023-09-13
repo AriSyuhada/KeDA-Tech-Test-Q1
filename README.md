@@ -5,7 +5,7 @@ This project is created for work test assessment. It consists of three questions
 ## Run The Test
 First thing first, you need to install the dependency using:
 ```
-	npm install
+  npm install
 ```
   After all the dependencies is successfully installed, you can run the test using this command:
 ```
